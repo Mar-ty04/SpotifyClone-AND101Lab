@@ -15,7 +15,7 @@ If I had to describe this project in three (3) emojis, they would be: 😼 🖐�
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/7lCR48a.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/3qYAbP3.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif
 
